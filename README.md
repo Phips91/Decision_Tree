@@ -4,6 +4,8 @@ Repository für die Angleichsleistung im Studiengang DBE
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Phips91/Decision_Tree.git/HEAD)
 
 
+Hier ist eine kurze Dokumentation zum gegebenen Code:
+
 Die vorliegende Code-Dokumentation beschreibt ein Projekt zur Erstellung von Entscheidungsbäumen und Random Forests für die Vorhersage, ob ein Kreditnehmer bei LendingClub.com ein Darlehen vollständig zurückzahlen wird oder nicht. Das Projekt verwendet öffentlich verfügbare Daten von LendingClub.com von 2007 bis 2010. Ziel ist es, ein Modell zu erstellen, das Kreditgeber dabei unterstützt, Kreditnehmer auszuwählen, die mit hoher Wahrscheinlichkeit ihr Darlehen zurückzahlen werden.
 Schritt 1: Importieren von Bibliotheken und Laden der Daten
 
