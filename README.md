@@ -1,5 +1,12 @@
 # Decision Tree
-Repository für die Angleichsleistung im Studiengang DBE
+
+#Projektname: Decision Tree
+
+Anleitung zum Betrieb des Codes:
+
+    MyBinder über den BinderBatch öffnen
+    Nach dem öffnen des MyBinder, das Notebook
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Phips91/Decision_Tree.git/HEAD)
 
