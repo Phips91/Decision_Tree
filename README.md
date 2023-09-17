@@ -4,8 +4,9 @@
 
 Anleitung zum Betrieb des Codes:
 
-    MyBinder über den BinderBatch öffnen
-    Nach dem öffnen des MyBinder, das Notebook
+1. MyBinder über den BinderBatch öffnen
+2. Nach dem öffnen des MyBinder, das Notebook
+3. 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Phips91/Decision_Tree.git/HEAD)
